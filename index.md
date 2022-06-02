@@ -1,5 +1,6 @@
-## Measuring US bilateral relations with (almost) every country in the world
+## Measuring the strength of US bilateral relations with (almost) every country in the world
 
+The IR-Index tracks US bilateral relations across four dimensions:
 - People and culture
 - Economy
 - Diplomacy
