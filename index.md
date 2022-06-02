@@ -1,14 +1,14 @@
-## Measuring the strength of US bilateral relations with (almost) every country in the world
+## Measuring U.S. bilateral relations with (almost) every country in the world
 
-The IR-Index tracks US bilateral relations across four dimensions:
+The IR-Index tracks U.S. bilateral relations across four dimensions:
 - People and culture
 - Economy
 - Diplomacy
 - Defense and security
 
-### Markdown
+### The US IR-Index combines various datasets into one holistic score
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To read more about the methodology behind the IR-Index, please click [here](wikipedia.org)
 
 ```markdown
 Syntax highlighted code block
