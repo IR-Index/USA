@@ -8,7 +8,7 @@ The IR-Index tracks U.S. bilateral relations across four dimensions:
 
 ### The US IR-Index combines various datasets into one holistic score
 
-To read more about the methodology behind the IR-Index, please click [here](wikipedia.org)
+To read more about the methodology behind the IR-Index, please click [here](www.wikipedia.org)
 
 ```markdown
 Syntax highlighted code block
