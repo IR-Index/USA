@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages ABC
+## Measuring US bilateral relations with (almost) every country in the world
 
-Quantifying international relations
+- People and culture
+- Economy
+- Diplomacy
+- Defense and security
 
 ### Markdown
 
